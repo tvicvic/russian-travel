@@ -4,7 +4,7 @@
 ### "Путешествие по России" - одностраничный сайт про туризм внутри страны, созданный по методике обучения курса ["Веб-разработчик"](https://practicum.yandex.ru/web/). В проектной работе произвеедена работа с макетом Figma, выполнено постороение сложных сеток, применены расширенные возможности HTML и CSS. В данной работе реализована адаптивная вёрстка посредством Flexbox, Grid Layout и Media queries. 
 
 
-## **[Проектная работа на GitHub Pages]**(https://tvicvic.github.io/russian-travel/index.html)
+## **["Проектная работа на GitHub Pages"]**(https://tvicvic.github.io/russian-travel/index.html)
 
 
 ## **Функционал:**
