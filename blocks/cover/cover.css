@@ -3,27 +3,24 @@
     display: flex;
     width: 100%;
     min-height: 740px;
-    max-width: calc(100% - 48px*2);
+    max-width: 1184px;
     z-index: 1;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .cover {
-        min-width: 100%;
         min-height: 640px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .cover {
-        min-width: 100%;
         min-height: 480px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .cover {
-        min-width: 100%;
         min-height: 200px;
     }
 }
